@@ -1,7 +1,7 @@
 # shell-tools
 shell脚本写的小工具
 
-## dict.sh --命令行字典
+## dict.sh --命令行字典 (youdao.sh使用方法一样)
 ### 使用方法:
 ```shell
 sh dict.sh hello
